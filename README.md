@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Moiwa</h1>
 <h3 align="center">Software Engineer from Sierra Leone and a full time student at Microverse</h3>
 
+- I'm currently enrolled in Microverse.
+- I'm studying and creating projects utilizing technologies such as JavaScript, React, Redux, Python, Kotlin, Flutter, Dart, Go, and Ruby.
+- I'm able to work remotely with people from all backgrounds and communicate clearly and assertively.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelmoiwa&label=Profile%20views&color=0e75b6&style=flat" alt="samuelmoiwa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuelmoiwa" alt="samuelmoiwa" /></a> </p>
