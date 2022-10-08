@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Mobile development, and web applications**
 
-- 📫 How to reach me **samuelmoiwa@gmail.com**
+- 📱 Reach me on whatsApp **+23279356563**
 
 - ⚡ Fun fact **I love to learn new things**
 
