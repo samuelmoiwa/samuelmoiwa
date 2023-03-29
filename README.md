@@ -58,13 +58,13 @@
 
 
 
-<table>
+<!-- <table>
   <h3>My GitHub Contribution Graph... <h3><hr>
 
  <p align="center">
  <img width="830" src="https://activity-graph.herokuapp.com/graph?username=samuelmoiwa&theme=react-dark&hide_border=true&area=true"/>
  </p>
-</table><hr>
+</table><hr> -->
     
  <h3>Me As Code... </h3><hr>
 
