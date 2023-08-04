@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moiwa</h1>
-<h3 align="center">Software Engineer from Sierra Leone and a full time student at Microverse</h3>
+<h3 align="center">Software Engineer from Sierra Leone with B.Sc (Hons) in Computer Science and a graduate of Microverse</h3>
 
-- I'm currently enrolled in Microverse.
+- I'm a graduate of Microverse.
 - I'm studying and creating projects utilizing technologies such as JavaScript, React, Redux, Python, Kotlin, Flutter, Dart, Go, and Ruby.
 - I'm able to work remotely with people from all backgrounds and communicate clearly and assertively.
 
