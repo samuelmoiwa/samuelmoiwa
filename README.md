@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Moiwa</h1>
 <h3 align="center">Software Engineer from Sierra Leone with B.Sc (Hons) in Computer Science and a graduate of Microverse</h3>
 
-- I'm a graduate of Microverse.
-- I'm studying and creating projects utilizing technologies such as JavaScript, React, Redux, Python, Kotlin, Flutter, Dart, Go, and Ruby.
+- Most of my production expertise is in creating websites and web apps using React.js,
+- Creating projects utilizing technologies such as JavaScript, React, Redux, Python, Kotlin, Flutter, Dart, Go, and Ruby.
 - I'm able to work remotely with people from all backgrounds and communicate clearly and assertively.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelmoiwa&label=Profile%20views&color=0e75b6&style=flat" alt="samuelmoiwa" /> </p>
@@ -14,17 +14,9 @@
 <img align="right" width="400" src="https://github.com/samuelmoiwa/samuelmoiwa/blob/main/06f21a161921919.63cd7887d0a70.gif" />
 
 
-- 🔭 I’m currently working on **Data collection mobile app using Kotlin**
+- 🔭 I’m currently working on **Kenecare a virtual hospital that helps patients to have access to doctors with ease**
 
-- 🌱 I’m currently learning **JavaScript, React, Redux, and Ruby.**
-
-- 👯 I’m looking to collaborate on **Mobile and web applications**
-
-- 💬 Ask me about **Mobile development, and web applications**
-
-- 📱 Reach me on whatsApp **+23279356563**
-
-- ⚡ Fun fact **I love to learn new things**
+- 🤖 I’m into **Artificial Intelligence, IOT, Data Science and more.**
 
 </div>
 
