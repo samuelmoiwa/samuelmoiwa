@@ -11,7 +11,8 @@
 
 <div>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" width="200" height="200" src="" />
+
 
 - 🔭 I’m currently working on **Data collection mobile app using Kotlin**
 
@@ -54,34 +55,5 @@
   </a>
 </p>
 </table>
-<hr>
-
-
-
-<!-- <table>
-  <h3>My GitHub Contribution Graph... <h3><hr>
-
- <p align="center">
- <img width="830" src="https://activity-graph.herokuapp.com/graph?username=samuelmoiwa&theme=react-dark&hide_border=true&area=true"/>
- </p>
-</table><hr> -->
-    
- <h3>Me As Code... </h3><hr>
-
-
-```javascript
-import { Moiwa } from "Awesome";
-
-const languages = ["Javascript", "Python",  "Java", "Kotlin"];
-const frameworks = ["React", "Bootstrap", "Taliwind" , "Material-UI"];
-const databases = ["PostgreSQL", "MySql", "Oracle"];
-
-Moiwa.skills.push(...languages, ...frameworks, ...databases);
-```
-
 
 <hr><hr>
-<p align="center">
-  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
-</p>
-    <hr><hr>
