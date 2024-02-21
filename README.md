@@ -11,7 +11,7 @@
 
 <div>
 
-<img align="right" width="200" height="200" src="" />
+<img align="right" width="400" src="https://github.com/samuelmoiwa/samuelmoiwa/blob/main/06f21a161921919.63cd7887d0a70.gif" />
 
 
 - 🔭 I’m currently working on **Data collection mobile app using Kotlin**
